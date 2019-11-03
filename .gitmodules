@@ -1,0 +1,6 @@
+[submodule "exo-player"]
+	path = exo-player
+	url = ssh://aur@aur.archlinux.org/exo-player
+[submodule "prime"]
+	path = prime
+	url = ssh://aur@aur.archlinux.org/prime
